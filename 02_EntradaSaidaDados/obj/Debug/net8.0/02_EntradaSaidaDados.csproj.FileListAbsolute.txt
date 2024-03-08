@@ -1,0 +1,15 @@
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\02_EntradaSaidaDados\obj\Debug\net8.0\02_EntradaSaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\02_EntradaSaidaDados\obj\Debug\net8.0\02_EntradaSaidaDados.AssemblyInfoInputs.cache
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\02_EntradaSaidaDados\obj\Debug\net8.0\02_EntradaSaidaDados.AssemblyInfo.cs
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\02_EntradaSaidaDados\obj\Debug\net8.0\02_EntradaSaidaDados.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\02_EntradaSaidaDados\obj\Debug\net8.0\02_EntradaSaidaDados.sourcelink.json
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\02_EntradaSaidaDados\bin\Debug\net8.0\02_EntradaSaidaDados.exe
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\02_EntradaSaidaDados\bin\Debug\net8.0\02_EntradaSaidaDados.deps.json
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\02_EntradaSaidaDados\bin\Debug\net8.0\02_EntradaSaidaDados.runtimeconfig.json
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\02_EntradaSaidaDados\bin\Debug\net8.0\02_EntradaSaidaDados.dll
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\02_EntradaSaidaDados\bin\Debug\net8.0\02_EntradaSaidaDados.pdb
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\02_EntradaSaidaDados\obj\Debug\net8.0\02_EntradaSaidaDados.dll
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\02_EntradaSaidaDados\obj\Debug\net8.0\refint\02_EntradaSaidaDados.dll
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\02_EntradaSaidaDados\obj\Debug\net8.0\02_EntradaSaidaDados.pdb
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\02_EntradaSaidaDados\obj\Debug\net8.0\02_EntradaSaidaDados.genruntimeconfig.cache
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\02_EntradaSaidaDados\obj\Debug\net8.0\ref\02_EntradaSaidaDados.dll
