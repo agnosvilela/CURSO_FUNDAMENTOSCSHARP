@@ -7,7 +7,7 @@ namespace DeclarandoVariaveis
         static void Main(string[] args)
         {
             // tipo e nome
-            // posso declarar assim que declaro a variavel
+            // posso colocar o valor assim que declaro a variavel caso eu souber
             int idade;
             decimal altura;
             string nome;
