@@ -1,0 +1,15 @@
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\05_InferenciaDeTipo\obj\Debug\net8.0\05_InferenciaDeTipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\05_InferenciaDeTipo\obj\Debug\net8.0\05_InferenciaDeTipo.AssemblyInfoInputs.cache
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\05_InferenciaDeTipo\obj\Debug\net8.0\05_InferenciaDeTipo.AssemblyInfo.cs
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\05_InferenciaDeTipo\obj\Debug\net8.0\05_InferenciaDeTipo.csproj.CoreCompileInputs.cache
+C:\Users\agnos\Source\Repos\CURSO_FUNDAMENTOSCSHARP\05_InferenciaDeTipo\obj\Debug\net8.0\05_InferenciaDeTipo.sourcelink.json
+C:\Users\agnos\Source\repos\curso_fundamentoscsharp\05_InferenciaDeTipo\bin\Debug\net8.0\05_InferenciaDeTipo.exe
+C:\Users\agnos\Source\repos\curso_fundamentoscsharp\05_InferenciaDeTipo\bin\Debug\net8.0\05_InferenciaDeTipo.deps.json
+C:\Users\agnos\Source\repos\curso_fundamentoscsharp\05_InferenciaDeTipo\bin\Debug\net8.0\05_InferenciaDeTipo.runtimeconfig.json
+C:\Users\agnos\Source\repos\curso_fundamentoscsharp\05_InferenciaDeTipo\bin\Debug\net8.0\05_InferenciaDeTipo.dll
+C:\Users\agnos\Source\repos\curso_fundamentoscsharp\05_InferenciaDeTipo\bin\Debug\net8.0\05_InferenciaDeTipo.pdb
+C:\Users\agnos\Source\repos\curso_fundamentoscsharp\05_InferenciaDeTipo\obj\Debug\net8.0\05_InferenciaDeTipo.dll
+C:\Users\agnos\Source\repos\curso_fundamentoscsharp\05_InferenciaDeTipo\obj\Debug\net8.0\refint\05_InferenciaDeTipo.dll
+C:\Users\agnos\Source\repos\curso_fundamentoscsharp\05_InferenciaDeTipo\obj\Debug\net8.0\05_InferenciaDeTipo.pdb
+C:\Users\agnos\Source\repos\curso_fundamentoscsharp\05_InferenciaDeTipo\obj\Debug\net8.0\05_InferenciaDeTipo.genruntimeconfig.cache
+C:\Users\agnos\Source\repos\curso_fundamentoscsharp\05_InferenciaDeTipo\obj\Debug\net8.0\ref\05_InferenciaDeTipo.dll
